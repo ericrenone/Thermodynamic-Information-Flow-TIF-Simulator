@@ -7,7 +7,6 @@
 - Controlled exploration–exploitation transition  
 - Stochastic dynamics (Langevin-like noise)
 
-The system starts from a uniform distribution and converges toward a low-entropy attractor while respecting thermodynamic-inspired constraints.
 
 ## Features
 
