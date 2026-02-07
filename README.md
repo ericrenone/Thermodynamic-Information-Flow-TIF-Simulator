@@ -1,6 +1,6 @@
 # InfoFlowSim — Entropy-Attractor Dynamics Simulator
 
-**InfoFlowSim** is a high-fidelity, real-time simulation framework that models how discrete probability distributions evolve under **competing forces of entropy reduction and attractor alignment**, with stochastic noise. It visualizes convergence dynamics using first-principles information theory, making complex probabilistic systems intuitively understandable.
+Real-time simulation framework that models how discrete probability distributions evolve under **competing forces of entropy reduction and attractor alignment**, with stochastic noise. It visualizes convergence dynamics using first-principles information theory, making complex probabilistic systems intuitively understandable.
 
 ---
 
